@@ -1,6 +1,6 @@
 # stm32f4-nunchuck
 
-Project functionality
+# Project functionality
 
 Reads accelerometer values (I2C from Wii Nunchuck)
 
